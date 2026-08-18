@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/om-jena27)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/om-jena27)
-[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/om-jena27)
 
 </div>
 
